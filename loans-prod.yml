@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "welcome to our ABC Bank loan services in Production.Reach out for any help"
+  message: "welcome to our ABC Bank loan services in Production Repository.Reach out for any help"
   contactDetails:
     name: "margret for local support"
     email: "margret@gmail.com"
