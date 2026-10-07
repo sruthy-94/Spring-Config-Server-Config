@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "welcome to our ABC Bank card services in Production.Reach out for any help"
+  message: "welcome to our ABC Bank card services in Production Repository.Reach out for any help"
   contactDetails:
     name: "George Abraha for local support"
     email: "George@gmail.com"
