@@ -1,0 +1,17 @@
+
+
+build:
+  version: "1.0"
+loans:
+  message: "welcome to our ABC Bank loans service in local.Reach out for any help"
+  contactDetails:
+    name: "kathy key for local support"
+    email: "Kathy@gmail.com"
+  onCallSupport:
+    -(555)-678-123
+    -(555)-612-345
+management:
+ endpoints:
+  web:
+   exposure:
+    include: "*"

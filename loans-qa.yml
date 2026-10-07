@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to our ABC Bank  Credit Services in QA.Reach out for any help"
+  contactDetails:
+    name: "Vinod gabri for local support"
+    email: "Vinod@gmail.com"
+  onCallSupport:
+    -(555)-678-399
+    -(555)-612-899

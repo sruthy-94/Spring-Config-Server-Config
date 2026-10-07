@@ -1,0 +1,25 @@
+resilience4j.circuitbreaker:
+  instances:
+    matchingService:
+      sliding-window-size: 5
+      minimum-number-of-calls: 5
+      failure-rate-threshold: 50
+      wait-duration-in-open-state: 10s
+      permitted-number-of-calls-in-half-open-state: 2
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to our ABC Bank in local.Reach out for any help"
+  contactDetails:
+    name: "John David for local support"
+    email: "john@gmail.com"
+  onCallSupport:
+    -(555)-678-123
+    -(555)-612-345
+
+
+
+
+  
+

@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: "welcome to our ABC Bank card services in Production.Reach out for any help"
+  contactDetails:
+    name: "George Abraha for local support"
+    email: "George@gmail.com"
+  onCallSupport:
+    -(555)-678-399
+    -(555)-612-899

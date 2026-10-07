@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to our ABC Bank in Production.Reach out for any help"
+  contactDetails:
+    name: "Michell David for local support"
+    email: "Michelle@gmail.com"
+  onCallSupport:
+    -(555)-678-399
+    -(555)-612-899
+

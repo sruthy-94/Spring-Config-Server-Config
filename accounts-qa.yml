@@ -1,0 +1,15 @@
+#when thes profile to activate .this is to activate profile with name qa
+
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to our ABC Bank in QA.Reach out for any help"
+  contactDetails:
+    name: "Maria Vincent for local support"
+    email: "Maria@gmail.com"
+  onCallSupport:
+    -(555)-678-399
+    -(555)-612-899
